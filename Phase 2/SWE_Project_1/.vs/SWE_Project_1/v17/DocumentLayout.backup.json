@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|d:\\admin\\documents\\l3s2 sc\\software engineering\\swe project\\swe_project_1\\swe_project_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form2.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Media\\airplane_icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:SWE_Project_1\\Media\\airplane_icon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\swe_project_1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5EAAB0D-8C55-4E6A-B97B-90FBAE16EDED}|SWE_Project_1\\SWE_Project_1.csproj|solutionrelative:swe_project_1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.resx",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form2.resx",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.resx",
+              "RelativeToolTip": "SWE_Project_1\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-27T14:06:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "airplane_icon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Media\\airplane_icon.ico",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Media\\airplane_icon.ico",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Media\\airplane_icon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "SWE_Project_1\\Media\\airplane_icon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2026-04-27T14:05:17.591Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form3.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form3.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form3.cs",
+              "RelativeToolTip": "SWE_Project_1\\Form3.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:54:06.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form3.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form3.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form3.cs [Design]",
+              "RelativeToolTip": "SWE_Project_1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T13:50:10.316Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form2.Designer.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.Designer.cs",
+              "RelativeToolTip": "SWE_Project_1\\Form2.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T03:28:58.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form2.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.cs",
+              "RelativeToolTip": "SWE_Project_1\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T01:02:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form2.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form2.cs [Design]",
+              "RelativeToolTip": "SWE_Project_1\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T00:12:45.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form1.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form1.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form1.cs",
+              "RelativeToolTip": "SWE_Project_1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:26:50.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form1.cs",
+              "RelativeDocumentMoniker": "SWE_Project_1\\Form1.cs",
+              "ToolTip": "D:\\Admin\\Documents\\L3S2 SC\\Software Engineering\\SWE Project\\SWE_Project_1\\SWE_Project_1\\Form1.cs [Design]",
+              "RelativeToolTip": "SWE_Project_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T01:26:44.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

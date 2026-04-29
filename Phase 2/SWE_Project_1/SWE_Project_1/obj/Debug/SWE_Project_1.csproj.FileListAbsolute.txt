@@ -1,0 +1,53 @@
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe.config
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.pdb
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.AssemblyReference.cache
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form1.resources
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Properties.Resources.resources
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.GenerateResource.cache
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Proj.6A67D935.Up2Date
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.exe
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.pdb
+C:\Users\Sara\source\repos\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form2.resources
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe.config
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.pdb
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.AssemblyReference.cache
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form1.resources
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form2.resources
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form3.resources
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Properties.Resources.resources
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.GenerateResource.cache
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.CoreCompileInputs.cache
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.exe
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.pdb
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe.config
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.pdb
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\bin\Debug\Oracle.DataAccess.dll
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.AssemblyReference.cache
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form1.resources
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form2.resources
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form3.resources
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Properties.Resources.resources
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.GenerateResource.cache
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.CoreCompileInputs.cache
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Proj.6A67D935.Up2Date
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.exe
+D:\Admin\Documents\L3S2 SC\Software Engineering\SWE Project\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.pdb
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.AssemblyReference.cache
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.exe
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.pdb
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe.config
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.exe
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\bin\Debug\SWE_Project_1.pdb
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form1.resources
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form2.resources
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form3.resources
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form4.resources
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Properties.Resources.resources
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.GenerateResource.cache
+D:\download\VS Templates-20260429T002019Z-3-001\VS Templates\SWE_Project_2\SWE_Project_2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.csproj.CoreCompileInputs.cache
+D:\My Library\الكلية\Software\Project\Phase 2\SWE_Project_1\SWE_Project_1\obj\Debug\SWE_Project_1.Form4.resources
