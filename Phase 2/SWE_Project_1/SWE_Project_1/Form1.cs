@@ -54,5 +54,17 @@ namespace SWE_Project_1
             Form4 f4 = new Form4();
             f4.Show();
         }
+
+        private void button_CR_1_Click(object sender, EventArgs e)
+        {
+            Form5 f5 = new Form5();
+            f5.Show();
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            Form6 f6 = new Form6();
+            f6.Show();
+        }
     }
 }
