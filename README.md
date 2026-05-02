@@ -1,6 +1,6 @@
 # ✈️ EgyptAir Flight Management System
 
-![C#](https://img.shields.io/badge/C%23-.NET-blue) ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-blue) ![Oracle](https://img.shields.io/badge/DB-Oracle-teal) ![Crystal Reports](https://img.shields.io/badge/Reports-Crystal%20Reports-orange) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![C#](https://img.shields.io/badge/C%23-.NET-blue) ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-blue) ![Oracle](https://img.shields.io/badge/DB-Oracle-teal) ![Crystal Reports](https://img.shields.io/badge/Reports-Crystal%20Reports-orange)
 
 A desktop application for managing airline operations including users, bookings, passengers, and reports.
 
