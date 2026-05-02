@@ -39,20 +39,20 @@ namespace SWE_Project_1
 
         private void Form4_Load(object sender, EventArgs e)
         {
-      
+
             conn = new OracleConnection(ordb);
             conn.Open();
 
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "select user_id from users"; 
+            cmd.CommandText = "select passenger_id from passengers";
             cmd.CommandType = CommandType.Text;
 
             OracleDataReader dr = cmd.ExecuteReader();
 
             while (dr.Read())
             {
-                comboBox_User_ID.Items.Add(dr[0]);
+                comboBox_Passenger_ID.Items.Add(dr[0]);
             }
 
             dr.Close();
@@ -60,37 +60,32 @@ namespace SWE_Project_1
 
         private void comboBox_User_ID_SelectedIndexChanged(object sender, EventArgs e)
         {
-      
-            if (comboBox_User_ID.SelectedItem == null)
-                return;
-
             conn = new OracleConnection(ordb);
             conn.Open();
+            if (comboBox_Passenger_ID.SelectedItem == null)
+                return;
 
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "get_user_by_id";
+            cmd.CommandText = "get_passenger_by_id";
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.Add("p_id", OracleDbType.Int32).Value =
-                Convert.ToInt32(comboBox_User_ID.SelectedItem);
+        Convert.ToInt32(comboBox_Passenger_ID.SelectedItem);
 
-            cmd.Parameters.Add("p_name", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
-            cmd.Parameters.Add("p_email", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
-            cmd.Parameters.Add("p_pass", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
-            cmd.Parameters.Add("p_phone", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
-            cmd.Parameters.Add("P_DOB", OracleDbType.Date).Direction = ParameterDirection.Output;
-            cmd.Parameters.Add("P_ROLE", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
-            cmd.Parameters.Add("P_CREATED", OracleDbType.Date).Direction = ParameterDirection.Output;
+            cmd.Parameters.Add("p_booking_id", OracleDbType.Int32).Direction = ParameterDirection.Output;
+            cmd.Parameters.Add("p_full_name", OracleDbType.Varchar2, 100).Direction = ParameterDirection.Output;
+            cmd.Parameters.Add("p_passport", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
+            cmd.Parameters.Add("p_meal", OracleDbType.Varchar2, 50).Direction = ParameterDirection.Output;
 
-         
+
 
             cmd.ExecuteNonQuery();
 
-            txtName.Text = cmd.Parameters["p_name"].Value.ToString();
-            txtEmail.Text = cmd.Parameters["p_email"].Value.ToString();
-            txtPassword.Text = cmd.Parameters["p_pass"].Value.ToString();
-            txtPhone.Text = cmd.Parameters["p_phone"].Value.ToString();
+            txtName.Text = cmd.Parameters["p_full_name"].Value.ToString();
+            txtPassport.Text = cmd.Parameters["p_passport"].Value.ToString();
+            txtMeal.Text = cmd.Parameters["p_meal"].Value.ToString();
+            txtBookingID.Text = cmd.Parameters["p_booking_id"].Value.ToString();
 
             conn.Close();
         }
@@ -102,13 +97,13 @@ namespace SWE_Project_1
 
         private void button1_Click(object sender, EventArgs e)
         {
-      
+
             conn = new OracleConnection(ordb);
             conn.Open();
 
             OracleCommand cmd = new OracleCommand();
             cmd.Connection = conn;
-            cmd.CommandText = "get_all_users";
+            cmd.CommandText = "get_all_passengers";
             cmd.CommandType = CommandType.StoredProcedure;
 
             cmd.Parameters.Add("p_result", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
@@ -123,7 +118,7 @@ namespace SWE_Project_1
             conn.Close();
         }
     }
-    
-    
-    
+
+
+
 }

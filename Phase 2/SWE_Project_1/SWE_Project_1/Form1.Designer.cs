@@ -46,11 +46,11 @@
             this.button_Insert_Passenger.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Insert_Passenger.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button_Insert_Passenger.Location = new System.Drawing.Point(125, 297);
-            this.button_Insert_Passenger.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button_Insert_Passenger.Margin = new System.Windows.Forms.Padding(2);
             this.button_Insert_Passenger.Name = "button_Insert_Passenger";
             this.button_Insert_Passenger.Size = new System.Drawing.Size(728, 61);
             this.button_Insert_Passenger.TabIndex = 12;
-            this.button_Insert_Passenger.Text = "Manage Passengers";
+            this.button_Insert_Passenger.Text = "Manage Users";
             this.button_Insert_Passenger.UseVisualStyleBackColor = false;
             this.button_Insert_Passenger.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -61,7 +61,7 @@
             this.button_Open_F2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_Open_F2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button_Open_F2.Location = new System.Drawing.Point(125, 426);
-            this.button_Open_F2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button_Open_F2.Margin = new System.Windows.Forms.Padding(2);
             this.button_Open_F2.Name = "button_Open_F2";
             this.button_Open_F2.Size = new System.Drawing.Size(728, 61);
             this.button_Open_F2.TabIndex = 13;
@@ -111,11 +111,11 @@
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button1.Location = new System.Drawing.Point(127, 546);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(728, 61);
             this.button1.TabIndex = 19;
-            this.button1.Text = "Manage Users";
+            this.button1.Text = "Manage Passengers";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
@@ -126,7 +126,7 @@
             this.button_CR_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button_CR_1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button_CR_1.Location = new System.Drawing.Point(127, 665);
-            this.button_CR_1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button_CR_1.Margin = new System.Windows.Forms.Padding(2);
             this.button_CR_1.Name = "button_CR_1";
             this.button_CR_1.Size = new System.Drawing.Size(728, 61);
             this.button_CR_1.TabIndex = 20;
@@ -141,7 +141,7 @@
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.14286F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.button2.Location = new System.Drawing.Point(127, 783);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(728, 61);
             this.button2.TabIndex = 21;
@@ -164,7 +164,7 @@
             this.Controls.Add(this.button_Open_F2);
             this.Controls.Add(this.button_Insert_Passenger);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Welcome Page";
             this.Load += new System.EventHandler(this.Form1_Load);
